@@ -9,7 +9,8 @@ What the software does:
 Takes user's name and age and displays back the user's name and their age in a sentence. 
 
 How to use it: 
-
+1. Make sure you have JupyterHub downloaded. Then, you can download our Notebook.ipynb file and open it in JupterHub and start editing it there. 
+2. Run the code to see what it does. Then, you can make your own changes as you desire. 
 
 License and Use:
 To contribute to our project, first make sure you are following our code of conduct. Then, you can submit a pull request to collaborate. 
