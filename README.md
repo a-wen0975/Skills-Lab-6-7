@@ -19,4 +19,4 @@ We chose this license because we want to share our program with others and provi
 
 The license can be installed for free in any software and people are prohibited from selling the codes.
 
-The code of conduct aligns with our values such as people should respect others. It list behaviors that people should and should not follow. For example, an unacceptable behavior is to making slight changes to someone's code and taking credit for it. 
+The code of conduct aligns with our values such as people should respect others. It list behaviors that people should and should not follow. For example, an unacceptable behavior is making small changes to someone's code and taking credit for it. 
