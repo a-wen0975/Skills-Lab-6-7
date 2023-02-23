@@ -1,9 +1,15 @@
 # Skills-Lab-6-7
-Takes user's name and age as input and prints back the user's name and their age in a sentence. 
+
 
 Group Members:
 Alice Wen
 and Angelika Mae Fangonilo
+
+What the software does:
+Takes user's name and age and displays back the user's name and their age in a sentence. 
+
+How to use it: 
+
 
 License and Use:
 To contribute to our project, first make sure you are following our code of conduct. Then, you can submit a pull request to collaborate. 
